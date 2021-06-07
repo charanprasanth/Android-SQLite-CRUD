@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.4inodev:Neomorphic-FrameLayout-Android:1.03@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/da32e25b5e5fe9f2cce05eb99dfb17e2/jetified-Neomorphic-FrameLayout-Android-1.03/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/da32e25b5e5fe9f2cce05eb99dfb17e2/jetified-Neomorphic-FrameLayout-Android-1.03/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/da32e25b5e5fe9f2cce05eb99dfb17e2/jetified-Neomorphic-FrameLayout-Android-1.03/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da32e25b5e5fe9f2cce05eb99dfb17e2/jetified-Neomorphic-FrameLayout-Android-1.03/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da32e25b5e5fe9f2cce05eb99dfb17e2/jetified-Neomorphic-FrameLayout-Android-1.03/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da32e25b5e5fe9f2cce05eb99dfb17e2/jetified-Neomorphic-FrameLayout-Android-1.03/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.github.4inodev/Neomorphic-FrameLayout-Android/1.03/69aa01a6a01f16c8580b7fbf57f08b294f780ce4/Neomorphic-FrameLayout-Android-1.03-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.4inodev/Neomorphic-FrameLayout-Android/1.03/69aa01a6a01f16c8580b7fbf57f08b294f780ce4/Neomorphic-FrameLayout-Android-1.03-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:paddingStart="15dp"
+    android:paddingEnd="15dp"
+    tools:context=".MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+
+        <TextView
+            android:id="@+id/textTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Android SQLite CRUD"
+            android:textColor="@color/dark"
+            android:textSize="25sp" />
+
+        <com.chinodev.androidneomorphframelayout.NeomorphFrameLayout
+            android:layout_marginTop="10dp"
+            android:layout_below="@id/textTitle"
+            android:id="@+id/insertLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:neomorph_view_type="rectangular"
+            app:neomorph_shadow_type="outer"
+            app:neomorph_elevation="6dp"
+            app:neomorph_corner_radius="10dp"
+            app:neomorph_background_color="@color/background"
+            app:neomorph_shadow_color="@color/shadow_color"
+            app:neomorph_highlight_color="@color/highlight">
+
+            <Button
+                android:id="@+id/btnInsert"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:background="@drawable/shape_rectangle"
+                android:textColor="@color/dark"
+                android:textAllCaps="false"
+                android:text="Insert Data"/>
+
+        </com.chinodev.androidneomorphframelayout.NeomorphFrameLayout>
+
+        <com.chinodev.androidneomorphframelayout.NeomorphFrameLayout
+            android:layout_marginTop="10dp"
+            android:layout_below="@id/insertLayout"
+            android:id="@+id/updateLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:neomorph_view_type="rectangular"
+            app:neomorph_shadow_type="outer"
+            app:neomorph_elevation="6dp"
+            app:neomorph_corner_radius="10dp"
+            app:neomorph_background_color="@color/background"
+            app:neomorph_shadow_color="@color/shadow_color"
+            app:neomorph_highlight_color="@color/highlight">
+
+            <Button
+                android:id="@+id/btnUpdate"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:background="@drawable/shape_rectangle"
+                android:textColor="@color/dark"
+                android:textAllCaps="false"
+                android:text="Update Data"/>
+
+        </com.chinodev.androidneomorphframelayout.NeomorphFrameLayout>
+
+        <com.chinodev.androidneomorphframelayout.NeomorphFrameLayout
+            android:layout_marginTop="10dp"
+            android:layout_below="@id/updateLayout"
+            android:id="@+id/deleteLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:neomorph_view_type="rectangular"
+            app:neomorph_shadow_type="outer"
+            app:neomorph_elevation="6dp"
+            app:neomorph_corner_radius="10dp"
+            app:neomorph_background_color="@color/background"
+            app:neomorph_shadow_color="@color/shadow_color"
+            app:neomorph_highlight_color="@color/highlight">
+
+            <Button
+                android:id="@+id/btnDelete"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:background="@drawable/shape_rectangle"
+                android:textColor="@color/dark"
+                android:textAllCaps="false"
+                android:text="Delete Data"/>
+
+        </com.chinodev.androidneomorphframelayout.NeomorphFrameLayout>
+
+        <com.chinodev.androidneomorphframelayout.NeomorphFrameLayout
+            android:layout_marginTop="10dp"
+            android:layout_below="@id/deleteLayout"
+            android:id="@+id/viewLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:neomorph_view_type="rectangular"
+            app:neomorph_shadow_type="outer"
+            app:neomorph_elevation="6dp"
+            app:neomorph_corner_radius="10dp"
+            app:neomorph_background_color="@color/background"
+            app:neomorph_shadow_color="@color/shadow_color"
+            app:neomorph_highlight_color="@color/highlight">
+
+            <Button
+                android:id="@+id/btnView"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:background="@drawable/shape_rectangle"
+                android:textColor="@color/dark"
+                android:textAllCaps="false"
+                android:text="View Data"/>
+
+        </com.chinodev.androidneomorphframelayout.NeomorphFrameLayout>
+
+    </RelativeLayout>
+
+<!--
+    <Button
+        android:id="@+id/btnUpdate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btnInsert"
+        android:text="Update data"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/btnDelete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btnUpdate"
+        android:text="Delete data"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/btnView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btnDelete"
+        android:text="View data"
+        android:textSize="24sp" />-->
+
+</RelativeLayout>

@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.GrenderG:toasty:1.4.2@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/a7eea01b1f007955a98ead8e715314d0/jetified-toasty-1.4.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/a7eea01b1f007955a98ead8e715314d0/jetified-toasty-1.4.2/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/a7eea01b1f007955a98ead8e715314d0/jetified-toasty-1.4.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a7eea01b1f007955a98ead8e715314d0/jetified-toasty-1.4.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a7eea01b1f007955a98ead8e715314d0/jetified-toasty-1.4.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a7eea01b1f007955a98ead8e715314d0/jetified-toasty-1.4.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.github.GrenderG/toasty/1.4.2/87daeb6c3adfac36dcc3356b6fb64a42e04bcf9b/toasty-1.4.2-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.GrenderG/toasty/1.4.2/87daeb6c3adfac36dcc3356b6fb64a42e04bcf9b/toasty-1.4.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
