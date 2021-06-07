@@ -14,4 +14,4 @@ Some more components added here are
 
   Fading animation for Window transitions
 
-![alt text](https://github.com/charanprasanth/Android-SQLite-CRUD/blob/master/screenshots/Screenshot_20210607-232108_TestSqlite.jpg?raw=true)
+![alt text](https://github.com/charanprasanth/Android-SQLite-CRUD/blob/master/screenshots/Screenshot_20210607-232108_TestSqlite.jpg?raw=true) ![alt text](https://github.com/charanprasanth/Android-SQLite-CRUD/blob/master/screenshots/Screenshot_20210607-232113_TestSqlite.jpg?raw=true) 
