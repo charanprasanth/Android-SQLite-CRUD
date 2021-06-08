@@ -13,4 +13,3 @@ Some more components added here are
   (Including styles for alert dialog box)
 
   Fading animation for Window transitions
-
