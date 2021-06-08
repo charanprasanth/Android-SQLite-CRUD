@@ -21,4 +21,4 @@ Some more components added here are
 ![alt text](https://github.com/charanprasanth/Android-SQLite-CRUD/blob/master/screenshots/pic3.jpg?raw=true)
 ![alt text](https://github.com/charanprasanth/Android-SQLite-CRUD/blob/master/screenshots/pic4.jpg?raw=true)
 ![alt text](https://github.com/charanprasanth/Android-SQLite-CRUD/blob/master/screenshots/pic5.jpg?raw=true)
-![alt text](https://github.com/charanprasanth/Android-SQLite-CRUD/blob/master/screenshots/pic6.jpg?raw=true)
+<a href="url"><img src="https://github.com/charanprasanth/Android-SQLite-CRUD/blob/master/screenshots/pic6.jpg" height="300" ></a>
