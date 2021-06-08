@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        //just for commit
         name = findViewById(R.id.name);
         contact = findViewById(R.id.contact);
         dob = findViewById(R.id.dob);
