@@ -13,3 +13,13 @@ Some more components added here are
   (Including styles for alert dialog box)
 
   Fading animation for Window transitions
+  
+  SAMPLE SCREENSHOTS
+  
+  <img src="https://github.com/charanprasanth/Android-SQLite-CRUD/blob/master/screenshots/pic1.jpg?raw=true" height="300"></img>
+  <img src="https://github.com/charanprasanth/Android-SQLite-CRUD/blob/master/screenshots/pic2.jpg?raw=true" height="300"></img>
+  <img src="https://github.com/charanprasanth/Android-SQLite-CRUD/blob/master/screenshots/pic3.jpg?raw=true" height="300"></img>
+  
+  <img src="https://github.com/charanprasanth/Android-SQLite-CRUD/blob/master/screenshots/pic4.jpg?raw=true" height="300"></img>
+  <img src="https://github.com/charanprasanth/Android-SQLite-CRUD/blob/master/screenshots/pic5.jpg?raw=true" height="300"></img>
+  <img src="https://github.com/charanprasanth/Android-SQLite-CRUD/blob/master/screenshots/pic6.jpg?raw=true" height="300"></img>
